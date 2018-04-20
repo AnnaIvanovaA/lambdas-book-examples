@@ -2,7 +2,7 @@ package com.insightfullogic.java8.examples.chapter3;
 
 import java.util.stream.Stream;
 
-public class GeneratingStreams {
+public class Main {
 
     public static void main(String[] args) {
         iterate();
