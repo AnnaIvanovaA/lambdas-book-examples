@@ -1,0 +1,28 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="test_indexer_TestDataBuilder_test_memory_entity_compaction" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="lambdas-book-examples" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.insightfullogic.java8.examples.chapter9.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="PACKAGE_NAME" value="com.insightfullogic.java8.examples.chapter9" />
+    <option name="MAIN_CLASS_NAME" value="com.insightfullogic.java8.examples.chapter9.test_indexer_TestDataBuilder_test_memory_entity_compaction" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <option name="VM_PARAMETERS" value="-ea" />
+    <option name="PARAMETERS" value="" />
+    <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+    <option name="PASS_PARENT_ENVS" value="true" />
+    <option name="TEST_SEARCH_SCOPE">
+      <value defaultName="singleModule" />
+    </option>
+    <patterns />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
