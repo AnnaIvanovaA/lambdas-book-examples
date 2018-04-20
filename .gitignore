@@ -1,6 +1,10 @@
 # Idea
-.idea
+.idea/libraries/*
+.idea/*.xml
+.idea/*.name
 *.iml
+
+
 
 # Maven
 target/
